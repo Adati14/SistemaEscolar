@@ -3,3 +3,4 @@ ALUNO B - 16 anos
 ALUNO C - 17 anos
 ALUNO D - 15 anos
 ALUNO E - 16 anos
+ALUNO F - 16 anos
